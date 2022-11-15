@@ -13,6 +13,7 @@ tags:
   - Welcome
 category:
   - Podcast
+  - New Cat
 slug: "new-post-one"
 ---
 
