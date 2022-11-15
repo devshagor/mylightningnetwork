@@ -1,5 +1,5 @@
 ---
-title: "Episode 1: Welcome to mylightning.network!"
+title: "new post one"
 date: 2022-11-09T12:28:50+07:00
 draft: false
 seo_description: ""
@@ -13,7 +13,7 @@ tags:
   - Welcome
 category:
   - Podcast
-slug: "welcometoln"
+slug: "new-post-one"
 ---
 
 Hey everybody, welcome to your lightning network magazine, where we discuss the
