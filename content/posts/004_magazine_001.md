@@ -1,6 +1,6 @@
 ---
 title: "Episode 1: Welcome to mylightning.network!"
-date: 2022-11-09T12:28:50+07:00
+date: 2022-11-09T12:28:50+07:03
 draft: false
 seo_description: ""
 seo_keyword:

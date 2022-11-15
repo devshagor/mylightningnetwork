@@ -1,6 +1,6 @@
 ---
 title: "new post one"
-date: 2022-11-15T12:28:50+07:00
+date: 2022-11-15T12:28:50+07:10
 draft: false
 seo_description: ""
 seo_keyword:
