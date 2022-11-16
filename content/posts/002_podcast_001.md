@@ -1,6 +1,6 @@
 ---
-title: "What are  Capital Markets ?"
-date: 2022-11-09T12:28:50+07:01
+title: "Markets [EP02]: What are  Capital Markets?"
+date: 2022-11-09T15:28:50+07:00
 draft: false
 seo_description: ""
 seo_keyword:
@@ -12,7 +12,7 @@ audio_url: "/assets/audios/ActiveLightningCapitalMarkets.mp3"
 tags:
   - CapitalMarkets
 category:
-  - Magazine
+  - Podcasts
 slug: "welcometoln"
 ---
 

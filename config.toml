@@ -48,18 +48,18 @@ disqusShortname = 'yourDisqusShortname'
 # site params
 ####################
 [params]
-  author = "John Doe"
+  author = "RC"
   author_pic = "/assets/images/avatar1.jpg"
-  author_bio = "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+  author_bio = "Hi, I am RC, the curator of mylightning.network, explaining the money game ecosystem, rules and players involved. I hope you like it!"
   site_name = "myLightning.Network"
-  description = "website description"
-  motto = "Reporting & Educating about Lightning Network"
+  #description = "Unlearning Money & Reporting Lightning Capital Markets and Insights"
+  motto = "Lightning Network Capital Markets Insights and Analytics"
   locale = "en-US"
   type = "website"
   favicon = "favicon.png"
 
   contact_url = "mailto:lightningnetwork.magazine@gmail.com"
-  github = "https://github.com/mylightningnetwork"
+  #github = "https://github.com/mylightningnetwork"
   twitter = "https://twitter.com/MylightningN"
   youtube = "https://www.youtube.com/channel/UCdUIwB5dz3bSXujpT54jA6w"
 
@@ -75,16 +75,16 @@ url = "/about"
 weight = 1
 
 [[menu.main]]
-name = "News"
+name = "Lightning Markets"
 url = "/"
 weight = 2
 
 [[menu.main]]
-name = "Capital Markets"
-url = "/magazine"
+name = "CBDCs & Game Theory"
+url = "/gametheory"
 weight = 3
 
 [[menu.main]]
-name = "Game Theory"
-url = "/gametheory"
+name = "Join Network"
+url = "/join"
 weight = 4

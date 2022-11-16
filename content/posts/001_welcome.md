@@ -1,6 +1,6 @@
 ---
-title: "Episode 1: Welcome to mylightning.network!"
-date: 2022-11-09T12:28:50+07:00
+title: "[EP00] : Welcome to mylightning.network!"
+date: 2022-11-09T12:30:50+07:00
 draft: false
 seo_description: ""
 seo_keyword:
@@ -12,7 +12,7 @@ audio_url: "/assets/audios/ActiveLightningCapitalMarkets.mp3"
 tags:
   - Welcome
 category:
-  - Podcast
+  - News
 slug: "welcometoln"
 ---
 
